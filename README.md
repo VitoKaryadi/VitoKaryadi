@@ -15,5 +15,7 @@ I live in Bogor, Indonesia here the air is very cool even during the day<br>I am
 ### ✍️ Dev Quote
 <img src="https://i.pinimg.com/originals/0b/f4/01/0bf4011a2d74bd3727ab269c509193f1.jpg" alt="" data-canonical-src="https://i.pinimg.com/originals/0b/f4/01/0bf4011a2d74bd3727ab269c509193f1.jpg" width="500" style="border-radius:50%"/>
 
+[![An image of @vitokaryadi's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/vitokaryadi)](https://holopin.io/@vitokaryadi)
+
 ---
 [![](https://visitcount.itsvg.in/api?id=VitoKaryadi&icon=0&color=0)](https://visitcount.itsvg.in)
