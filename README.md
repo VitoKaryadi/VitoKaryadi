@@ -43,3 +43,5 @@
 </p>
 
 [![](https://visitcount.itsvg.in/api?id=VitoKaryadi&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<img src="https://github.com/user-attachments/assets/cbd31b1f-2711-4df8-8f13-4bb589416dac" alt="CEH Trained Badge" style="height: 80px; width:80px;"/>
