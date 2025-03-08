@@ -44,4 +44,4 @@
 
 [![](https://visitcount.itsvg.in/api?id=VitoKaryadi&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<img src="https://github.com/user-attachments/assets/cbd31b1f-2711-4df8-8f13-4bb589416dac" alt="CEH Trained Badge" style="height: 80px; width:80px;"/>
+<img src="https://github.com/user-attachments/assets/cbd31b1f-2711-4df8-8f13-4bb589416dac" alt="CEH Trained Badge" style="height: 80px; width:80px;"/>    <img src="https://github.com/user-attachments/assets/b8cbbcd2-8e74-44e3-9efb-98677c0609e8" alt="CCNA Badge" style="height: 80px;"/>    <img src="https://github.com/user-attachments/assets/4660ebb1-4037-4b0b-a913-893485ea12a1" alt="MTCTCE Badge" style="height: 80px;"/>    <img src="https://github.com/user-attachments/assets/076435da-76a4-4eed-9375-5252419a2aee" alt="MTCNA Badge" style="height: 80px;"/>
